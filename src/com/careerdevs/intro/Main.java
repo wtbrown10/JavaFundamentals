@@ -15,6 +15,7 @@ public class Main {
 //        System.out.println(fullName);
 
         createFullName("Gabriel", "Sherman");
+        NameGenerator.generateFullName("Sam", "Thomson");
     }
 
 
